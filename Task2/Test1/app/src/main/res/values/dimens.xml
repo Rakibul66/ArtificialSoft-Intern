@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margintext">16dp</dimen>
+    <dimen name="margincardview">14dp</dimen>
+    <dimen name="paddingCard">14dp</dimen>
+</resources>
