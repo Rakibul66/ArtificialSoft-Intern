@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user">User</string>
+    <string name="messages_here">Messages here!</string>
+    <string name="type_your_messages_here">Type a message</string>
+    <string name="a_sample_message">A sample message</string>
+    <string name="profile">Profile</string>
+    <string name="s">Username</string>
+    <string name="todo1">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="name">Name</string>
+    <string name="hey_there">Hey there!</string>
+    <string name="bio">Bio</string>
+    <string name="your_text_here">Your text here.</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="search">Search</string>
+    <string name="usernames">Username</string>
+    <string name="seen">Seen</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="reset">RESET</string>
+    <string name="email">Enter your Email</string>
+    <string name="log_out">Log Out</string>
+    <string name="login_now">Login now</string>
+    <string name="password">Password</string>
+    <string name="login_to_continue">Login to Continue</string>
+    <string name="dont_you_have_account">Dont you have account?</string>
+    <string name="register">Register</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in_with_google">Sign in With Google</string>
+</resources>
