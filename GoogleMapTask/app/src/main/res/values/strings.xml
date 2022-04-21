@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GoogleMapTask</string>
+    <string name="google_maps_key">AIzaSyBzH9uPOkQuSWqH3FSS-dNyJlBUkIC6_P8</string>
+    <string name="routing">Routing</string>
+    <string name="save_branch">Branch</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="add_places">Add Places</string>
+</resources>
