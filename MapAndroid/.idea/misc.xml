@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ArtificialSoft/ForSat/weatherforcast/app/src/main/res/drawable/gradiant_background3.xml" value="0.1825" />
+        <entry key="..\:/ArtificialSoft/ForSat/weatherforcast/app/src/main/res/drawable/gradiant_background8.xml" value="0.1825" />
+        <entry key="..\:/ArtificialSoft/ForSat/weatherforcast/app/src/main/res/layout/activity_current_loc.xml" value="0.2421875" />
+        <entry key="..\:/ArtificialSoft/ForSat/weatherforcast/app/src/main/res/layout/activity_location_change.xml" value="0.152" />
+        <entry key="..\:/ArtificialSoft/ForSat/weatherforcast/app/src/main/res/layout/activity_location_update.xml" value="0.2421875" />
+        <entry key="..\:/ArtificialSoft/ForSat/weatherforcast/app/src/main/res/layout/activity_map.xml" value="0.2421875" />
+        <entry key="..\:/ArtificialSoft/ForSat/weatherforcast/app/src/main/res/layout/activity_mapdes.xml" value="0.2421875" />
+        <entry key="..\:/ArtificialSoft/ForSat/weatherforcast/app/src/main/res/layout/activity_maps_raw.xml" value="0.2421875" />
+        <entry key="..\:/ArtificialSoft/ForSat/weatherforcast/app/src/main/res/layout/activity_poly_maps.xml" value="0.2421875" />
+        <entry key="..\:/ArtificialSoft/ForSat/weatherforcast/app/src/main/res/layout/activity_realtime_loc.xml" value="0.2421875" />
+        <entry key="..\:/ArtificialSoft/ForSat/weatherforcast/app/src/main/res/layout/activity_show_map.xml" value="0.2421875" />
+        <entry key="..\:/ArtificialSoft/ForSat/weatherforcast/app/src/main/res/layout/activity_show_maps.xml" value="0.2421875" />
+        <entry key="..\:/ArtificialSoft/ForSat/weatherforcast/app/src/main/res/layout/activity_trackme.xml" value="0.228125" />
+        <entry key="..\:/ArtificialSoft/ForSat/weatherforcast/app/src/main/res/layout/activity_weather.xml" value="0.2421875" />
+        <entry key="..\:/ArtificialSoft/ForSat/weatherforcast/app/src/main/res/layout/fragment_home.xml" value="0.2421875" />
+        <entry key="..\:/ArtificialSoft/ForSat/weatherforcast/app/src/main/res/layout/fragment_weather.xml" value="0.2421875" />
+        <entry key="..\:/ArtificialSoft/ForSat/weatherforcast/app/src/main/res/layout/item_weather.xml" value="0.2421875" />
+        <entry key="..\:/ArtificialSoft/ForSat/weatherforcast/app/src/main/res/layout/listview_text.xml" value="0.2421875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

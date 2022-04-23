@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="edt_height">35dp</dimen>
+
+    <dimen name="font_size_15">15sp</dimen>
+    <dimen name="font_size_30">30sp</dimen>
+    <dimen name="res_img_size">72dp</dimen>
+    <dimen name="font_size_14">14sp</dimen>
+    <dimen name="font_size_12">12sp</dimen>
+    <dimen name="font_size_22">22sp</dimen>
+    <dimen name="dropdown_size">20dp</dimen>
+    <dimen name="corner_radius">10dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+    <dimen name="card_padding">7dp</dimen>
+    <dimen name="card_top_margin">13dp</dimen>
+    <!--    <dimen name="card_top_margin">10dp</dimen>-->
+    <dimen name="hint_top_margin">10dp</dimen>
+    <dimen name="font_size_18">18sp</dimen>
+    <dimen name="scroll_padding">5dp</dimen>
+    <dimen name="layout_padding">10dp</dimen>
+    <dimen name="adview_height">60dp</dimen>
+    <!--    <dimen name="adview_height">60dp</dimen>-->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="settings_title_text_size">32sp</dimen>
+    <dimen name="settings_text_size">20sp</dimen>
+    <dimen name="hold_text_size">20sp</dimen>
+
+    <dimen name="sidePadding">10dp</dimen>
+    <dimen name="topPadding">16dp</dimen>
+    <dimen name="bottomPadding">16dp</dimen>
+    <dimen name="leftPadding">10dp</dimen>
+    <dimen name="rightPadding">10dp</dimen>
+    <dimen name="topMargin">10dp</dimen>
+    <dimen name="leftRightMargin">15dp</dimen>
+    <dimen name="buttonTextSize">16sp</dimen>
+    <dimen name="listTextSize">24sp</dimen>
+    <dimen name="padding">10sp</dimen>
+    <dimen name="lineHeight">2dp</dimen>
+
+</resources>

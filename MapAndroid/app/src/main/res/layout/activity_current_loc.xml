@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:orientation="vertical"
+    tools:context=".Activity.CurrentLoc.CurrentLocActivity">
+
+    <Button
+        android:id="@+id/buttonGetLocation"
+        android:drawableTint="@color/colorWhite"
+        android:drawablePadding="@dimen/font_size_18"
+        android:drawableLeft="@drawable/ic_baseline_add_location_alt_24"
+        android:layout_width="match_parent"
+        android:layout_margin="@dimen/font_size_18"
+        android:backgroundTint="@color/svg5"
+        android:layout_height="wrap_content"
+        android:text="Get Location" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:layout_margin="@dimen/font_size_18"
+        android:fontFamily="@font/ubuntu"
+        android:textColor="@color/colorAccent"
+        android:layout_marginBottom="18dp"
+        android:text="You Location is:"
+        android:textSize="24sp" />
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:weightSum="2"
+        android:layout_margin="@dimen/font_size_18"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/text1"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:id="@+id/text2"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="2"
+        android:layout_margin="@dimen/font_size_18"
+        android:layout_marginTop="16dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/text3"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:id="@+id/text4"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="16dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/text5"
+            android:textColor="@color/colorAccent"
+            android:fontFamily="@font/ubuntu"
+            android:layout_margin="@dimen/font_size_18"
+            android:textSize="@dimen/font_size_18"
+            android:text="@string/to_get_current_location_tap_get_location"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+    <Button
+        android:id="@+id/map"
+        android:drawableTint="@color/colorWhite"
+        android:drawablePadding="@dimen/font_size_18"
+        android:drawableLeft="@drawable/ic_baseline_map_24"
+        android:layout_width="match_parent"
+        android:backgroundTint="@color/svg5"
+        android:layout_margin="@dimen/font_size_18"
+        android:layout_height="wrap_content"
+        android:text="Open Map" />
+
+
+</LinearLayout>
